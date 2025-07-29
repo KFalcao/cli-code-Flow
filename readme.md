@@ -1,16 +1,20 @@
-# Cli Readme
+# ⚖️ Calculadora de Indice de Massa Corporal
 
-Projeto criado em grupo durante o programa desenvolve da koru
+Projeto criado pelo grupo CodeFlow durante o módulo 2 de desenvolvimento de software do programa desenvolve da Boticário/Koru.
+
+Projeto com intuito de desenvolver e aprimorar a utilização do JavaScript e a implementação de usos de APIs. 
 
 ## Autor
 
-Claudio Roberto
+🍃CodeFlow
 
+### Integrantes
 
-## Scripts Úteis
+- Beatriz Santos
+- Cláudio Roberto 
+- Daniele Karolline (Karol Falcão) 
+- Naiade Alves
 
-- `scripts/generate-readme.js`: gera um README interativo.  
-Use com:  
-```bash
-node scripts/generate-readme.js
+### API Utilizada
 
+https://bmicalculatorapi.vercel.app/api/
